@@ -1,0 +1,56 @@
+site_name: RetroNet
+site_description: "Decentralized Usenet on Reticulum — censorship-resistant communication and file sharing"
+site_url: https://retronet-hq.github.io/retronet/
+repo_url: https://github.com/retronet-hq/retronet
+repo_name: retronet-hq/retronet
+
+theme:
+  name: material
+  language: en
+  palette:
+    - scheme: slate
+      primary: deep purple
+      accent: amber
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+    - scheme: default
+      primary: deep purple
+      accent: amber
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+  features:
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - content.code.copy
+    - toc.integrate
+
+nav:
+  - Home: index.md
+  - Architecture: architecture.md
+  - Protocol: protocol.md
+  - Setup Guide: setup.md
+  - Deep Dives:
+      - Gossip Design: gossip-design.md
+      - Reticulum Internals: rns-internals.md
+  - Contributing: contributing.md
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - tables
+  - toc:
+      permalink: true
+  - attr_list
+  - def_list
+
+plugins:
+  - search

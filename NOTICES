@@ -1,0 +1,170 @@
+RetroNet - Third-Party Notices
+
+This file lists the third-party dependencies used by RetroNet,
+along with their licenses and copyright holders.
+
+================================================================================
+
+github.com/BurntSushi/toml
+License: MIT
+Copyright (c) 2013 TOML authors
+
+github.com/charmbracelet/bubbles
+License: MIT
+Copyright (c) 2020-2024 Charmbracelet, Inc.
+
+github.com/charmbracelet/bubbletea
+License: MIT
+Copyright (c) 2020-2024 Charmbracelet, Inc.
+
+github.com/charmbracelet/lipgloss
+License: MIT
+Copyright (c) 2021-2024 Charmbracelet, Inc.
+
+github.com/charmbracelet/colorprofile
+License: MIT
+Copyright (c) 2024 Charmbracelet, Inc.
+
+github.com/charmbracelet/harmonica
+License: MIT
+Copyright (c) 2021 Charmbracelet, Inc.
+
+github.com/charmbracelet/x/ansi
+License: MIT
+Copyright (c) 2024 Charmbracelet, Inc.
+
+github.com/charmbracelet/x/cellbuf
+License: MIT
+Copyright (c) 2024 Charmbracelet, Inc.
+
+github.com/charmbracelet/x/term
+License: MIT
+Copyright (c) 2024 Charmbracelet, Inc.
+
+github.com/fxamacker/cbor/v2
+License: MIT
+Copyright (c) 2019-2024 Faye Amacker
+
+github.com/spf13/cobra
+License: Apache License 2.0
+Copyright (c) 2013 Steve Francia
+
+github.com/spf13/pflag
+License: BSD 3-Clause
+Copyright (c) 2012 Alex Ogier, 2012 The Go Authors
+
+golang.org/x/crypto
+License: BSD 3-Clause
+Copyright (c) 2009 The Go Authors
+
+golang.org/x/sys
+License: BSD 3-Clause
+Copyright (c) 2009 The Go Authors
+
+golang.org/x/text
+License: BSD 3-Clause
+Copyright (c) 2009 The Go Authors
+
+modernc.org/sqlite
+License: BSD 3-Clause
+Copyright (c) 2017 The Sqlite Authors
+
+modernc.org/libc
+License: BSD 3-Clause
+Copyright (c) 2020 The Libc Authors
+
+modernc.org/mathutil
+License: BSD 3-Clause
+Copyright (c) 2014 The mathutil Authors
+
+modernc.org/memory
+License: BSD 3-Clause
+Copyright (c) 2017 The Memory Authors
+
+github.com/google/uuid
+License: BSD 3-Clause
+Copyright (c) 2009, 2014 Google Inc.
+
+github.com/atotto/clipboard
+License: BSD 3-Clause
+Copyright (c) 2013 Ato Araki
+
+github.com/dustin/go-humanize
+License: MIT
+Copyright (c) 2005-2008 Dustin Sallings
+
+github.com/mattn/go-isatty
+License: MIT
+Copyright (c) Yasuhiro MATSUMOTO
+
+github.com/mattn/go-localereader
+License: MIT
+Copyright (c) Yasuhiro MATSUMOTO
+
+github.com/mattn/go-runewidth
+License: MIT
+Copyright (c) Yasuhiro MATSUMOTO
+
+github.com/muesli/ansi
+License: MIT
+Copyright (c) 2021 Christian Muehlhaeuser
+
+github.com/muesli/cancelreader
+License: MIT
+Copyright (c) 2022 Christian Muehlhaeuser
+
+github.com/muesli/termenv
+License: MIT
+Copyright (c) 2019 Christian Muehlhaeuser
+
+github.com/rivo/uniseg
+License: MIT
+Copyright (c) 2019 Oliver Kuederle
+
+github.com/remyoudompheng/bigfft
+License: BSD 3-Clause
+Copyright (c) 2012 Remy Oudompheng
+
+github.com/x448/float16
+License: MIT
+Copyright (c) 2019 Montgomery Edwards
+
+github.com/sahilm/fuzzy
+License: MIT
+Copyright (c) 2017 Sahil Muthoo
+
+github.com/inconshreveable/mousetrap
+License: Apache License 2.0
+Copyright (c) 2014 Alan Shreve
+
+github.com/erikgeiser/coninput
+License: MIT
+Copyright (c) 2020 Erik Geiser
+
+github.com/lucasb-eyer/go-colorful
+License: MIT
+Copyright (c) 2013 Lucas Beyer
+
+github.com/aymanbagabas/go-osc52/v2
+License: MIT
+Copyright (c) 2022 Ayman Bagabas
+
+github.com/xo/terminfo
+License: MIT
+Copyright (c) 2020 Kenneth Shaw
+
+github.com/ncruces/go-strftime
+License: MIT
+Copyright (c) 2023 Nuno Cruces
+
+github.com/clipperhouse/displaywidth
+License: BSD 3-Clause
+Copyright (c) Matt Sherman
+
+github.com/clipperhouse/stringish
+License: BSD 3-Clause
+Copyright (c) Matt Sherman
+
+github.com/clipperhouse/uax29/v2
+License: BSD 3-Clause
+Copyright (c) Matt Sherman
